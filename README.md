@@ -9,10 +9,8 @@ Hi, I’m Aashish. I’m an engineering student who enjoys building ideas into r
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ash71106&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ash71106&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash71106&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ash71106&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
